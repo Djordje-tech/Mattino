@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mattino-caffe.vercel.app/sitemap.xml
